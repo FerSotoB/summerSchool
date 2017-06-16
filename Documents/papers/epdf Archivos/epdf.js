@@ -1,0 +1,2 @@
+(function(){try{window['readcube-mobile-supported']=false;window['readcube-request-ua']='Mozilla/5.0 (Windows NT 10.0; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0';}catch(e){}
+var script=document.createElement('script');script.async=true;script.type='text/javascript';script.src='https://content-assets.readcube.com/assets/wiley_epdf-67818dea70215ef2dedf90ba2a3133c7.js';document.getElementsByTagName('head').item(0).appendChild(script);})();
